@@ -1,2 +1,2 @@
 # Studio-Ghibli-API
-API pull with decorations
+API pull with CSS decorations in card format
